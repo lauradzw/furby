@@ -3,7 +3,7 @@
         "file": "context.dlc", 
         "title": "Furb test",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "Furb test", "action": [75,0,4,4] }
         ]
     },
     { 
