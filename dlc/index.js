@@ -1,7 +1,7 @@
 [
     { 
         "file": "context.dlc", 
-        "title": "Context Logo",
+        "title": "Furb test",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
