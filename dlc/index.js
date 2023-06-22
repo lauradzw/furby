@@ -1,16 +1,30 @@
 [
     { 
-        "file": "alexjones.dlc", 
-        "title": "alexjones",
+        "file": "alex.dlc", 
+        "title": "alex",
         "buttons": [
-            { "title": "alexjones", "action": [75,0,0,3] }
+            { "title": "alex", "action": [75,0,4,5] }
         ]
     },
     { 
-        "file": "visualsandtravis.dlc", 
-        "title": "visualsandtravis",
+        "file": "bal.dlc", 
+        "title": "balenciaga",
         "buttons": [
-            { "title": "visualsandtravis", "action": [75,0,0,3] }
+            { "title": "balenciaga", "action": [75,0,5,6] }
+        ]
+     },
+     { 
+        "file": "ye.dlc", 
+        "title": "kanye",
+        "buttons": [
+            { "title": "ye", "action": [75,0,4,5] }
+        ]
+    },
+    { 
+        "file": "bal.dlc", 
+        "title": "balenciaga",
+        "buttons": [
+            { "title": "balenciaga", "action": [75,0,5,6] }
         ]
      }
 ]
