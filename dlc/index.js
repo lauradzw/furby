@@ -17,14 +17,14 @@
         "file": "ye.dlc", 
         "title": "kanye",
         "buttons": [
-            { "title": "ye", "action": [75,0,4,5] }
+            { "title": "ye", "action": [75,0,6,5] }
         ]
     },
     { 
-        "file": "bal.dlc", 
-        "title": "balenciaga",
+        "file": "teletubbies.dlc", 
+        "title": "teletubbies",
         "buttons": [
-            { "title": "balenciaga", "action": [75,0,5,6] }
+            { "title": "teletubbies", "action": [75,0,4,6] }
         ]
      }
 ]
