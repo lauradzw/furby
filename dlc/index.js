@@ -1,9 +1,9 @@
 [
-    { 
+    {
         "file": "alexandkylie.dlc", 
-        "title": "alexandkylie",
+        "title": "alex",
         "buttons": [
-            { "title": "alexandkylie", "action": [75,0,0,2] }
+            { "title": "alex", "action": [75,0,0,2] } 
         ]
     }
 ]
