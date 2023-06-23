@@ -1,7 +1,7 @@
 [
     {
         "file": "alexsol.dlc", 
-        "title": "alex j",
+        "title": "alex solo",
         "buttons": [
             { "title": "alex solo", "action": [75,0,0,2] } 
         ]
