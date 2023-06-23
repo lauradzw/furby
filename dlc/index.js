@@ -7,10 +7,10 @@
         ]
     },
     {
-        "file": "monsterlady.dlc", 
-        "title": "monsterlady",
+        "file": "monster.dlc", 
+        "title": "monster",
         "buttons": [
-            { "title": "monsterlady", "action": [75,0,0,2] } 
+            { "title": "monster", "action": [75,0,0,2] } 
         ]
     }
 ]
