@@ -1,9 +1,9 @@
 [
     {
-        "file": "alexk.dlc", 
+        "file": "alexsol.dlc", 
         "title": "alex j",
         "buttons": [
-            { "title": "alex and kylie", "action": [75,0,0,2] } 
+            { "title": "alex solo", "action": [75,0,0,2] } 
         ]
     },
     {
