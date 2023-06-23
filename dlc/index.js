@@ -1,9 +1,9 @@
 [
     {
-        "file": "alexsol.dlc", 
-        "title": "alex solo",
+        "file": "monsterlady.dlc", 
+        "title": "monsterlady",
         "buttons": [
-            { "title": "alex solo", "action": [75,0,0,2] } 
+            { "title": "monsterlady", "action": [75,0,0,2] } 
         ]
     },
     {
