@@ -1,16 +1,9 @@
 [
     {
-        "file": "alexsh.dlc", 
-        "title": "alex short",
+        "file": "testcardib.dlc", 
+        "title": "cardi b long",
         "buttons": [
-            { "title": "alex short", "action": [75,0,0,2] } 
-        ]
-    },
-    {
-        "file": "monster.dlc", 
-        "title": "monster",
-        "buttons": [
-            { "title": "monster", "action": [75,0,0,2] } 
+            { "title": "cardi b long", "action": [75,0,0,2] } 
         ]
     }
 ]
