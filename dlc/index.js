@@ -1,6 +1,6 @@
 [
     {
-        "file": "testcardib.dlc", 
+        "file": "testcardib1.dlc", 
         "title": "cardi b long",
         "buttons": [
             { "title": "cardi b long", "action": [75,0,0,2] } 
