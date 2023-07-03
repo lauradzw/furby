@@ -1,9 +1,9 @@
 [
     {
-        "file": "testcardib.dlc", 
-        "title": "cardi b long img",
+        "file": "testnewlast.dlc", 
+        "title": "last test",
         "buttons": [
-            { "title": "cardi b long img", "action": [75,0,0,2] } 
+            { "title": "last test", "action": [75,0,0,2] } 
         ]
     }
 ]
