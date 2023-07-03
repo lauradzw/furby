@@ -1,9 +1,9 @@
 [
     {
-        "file": "testnewlast.dlc", 
-        "title": "last test",
+        "file": "testnewlastaa.dlc", 
+        "title": "test",
         "buttons": [
-            { "title": "last test", "action": [75,0,0,2] } 
+            { "title": "test", "action": [75,0,0,3] } 
         ]
     }
 ]
